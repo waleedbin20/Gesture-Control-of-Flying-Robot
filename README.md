@@ -1,1 +1,1 @@
-# Gesture-Control-of-Flying-Robot
+# Gesture Control of Flying Robot
